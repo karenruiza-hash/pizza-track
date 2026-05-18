@@ -58,9 +58,9 @@ Deshacer
 Rehacer
 
 ## Pruebas realizadas
-Registro de pizza 
-Deshacer pedido
-Rehacer pedido
-Mostrar pedido actual
-Salir del sistema
+Registro de pizza </br>
+Deshacer pedido </br>
+Rehacer pedido </br>
+Mostrar pedido actual </br>
+Salir del sistema </br>
 
